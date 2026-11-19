@@ -1,0 +1,21 @@
+kills-to-unlock: 5
+count-mob-kills: false
+assign-on-join: true
+target-mode: hostile
+particle-density: 1.0
+aura: true
+true-damage: true
+damage:
+  void-pull: 3.0
+  void-rift-per-hit: 1.5
+  null-pulse: 3.0
+  light-beam: 8.0
+  solar-flare: 6.0
+  dark-veil: 3.0
+  soul-drain: 5.0
+  shadow-strike: 10.0
+  eclipse-flash: 4.0
+  totality-per-second: 3.0
+  star-fall-per-star: 5.0
+  chaos-roll: 4.0
+  chaos-storm-per-strike: 6.0

@@ -1,0 +1,18 @@
+name: EclipsePowers
+version: 1.0.0
+main: dev.smp.eclipsepowers.EclipsePowers
+api-version: '1.21.11'
+author: RipMK128
+description: Eclipse powers for Paper servers
+commands:
+  power:
+    description: View and manage your Eclipse power
+    usage: /power [list|set|kills|reroll|reload]
+    permission: eclipsepowers.use
+permissions:
+  eclipsepowers.use:
+    description: Use EclipsePowers abilities and menus
+    default: true
+  eclipsepowers.admin:
+    description: Manage EclipsePowers settings and players
+    default: op
